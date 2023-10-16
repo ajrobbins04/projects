@@ -1,6 +1,3 @@
 [submodule "expenseManager"]
 	path = expenseManager
 	url = https://github.com/ajrobbins04/expenseManager.git
-[submodule "portfolioPage"]
-	path = portfolioPage
-	url = https://github.com/ajrobbins04/portfolioPage.git
