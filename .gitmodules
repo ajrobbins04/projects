@@ -1,3 +1,6 @@
 [submodule "expenseManager"]
 	path = expenseManager
 	url = https://github.com/ajrobbins04/expenseManager.git
+[submodule "mathFlashcards"]
+	path = mathFlashcards
+	url = https://github.com/ajrobbins04/mathFlashcards.git
