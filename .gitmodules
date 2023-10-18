@@ -1,6 +1,3 @@
 [submodule "expenseManager"]
 	path = expenseManager
 	url = https://github.com/ajrobbins04/expenseManager.git
-[submodule "djangoFlashcards"]
-	path = djangoFlashcards
-	url = https://github.com/ajrobbins04/djangoFlashcards.git
