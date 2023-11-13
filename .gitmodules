@@ -4,3 +4,6 @@
 [submodule "mathFlashcards"]
 	path = mathFlashcards
 	url = https://github.com/ajrobbins04/mathFlashcards.git
+[submodule "sudoku_solver"]
+	path = sudoku_solver
+	url = https://github.com/ajrobbins04/sudoku_solver.git
