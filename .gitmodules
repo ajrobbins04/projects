@@ -7,3 +7,6 @@
 [submodule "sudoku_solver"]
 	path = sudoku_solver
 	url = https://github.com/ajrobbins04/sudoku_solver.git
+[submodule "airHockey"]
+	path = airHockey
+	url = https://github.com/ajrobbins04/airHockey.git
