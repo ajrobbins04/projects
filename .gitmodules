@@ -7,3 +7,6 @@
 [submodule "sudoku_solver"]
 	path = sudoku_solver
 	url = https://github.com/ajrobbins04/sudoku_solver.git
+[submodule "chatApp"]
+	path = chatApp
+	url = https://github.com/ajrobbins04/chatApp.git
