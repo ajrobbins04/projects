@@ -10,3 +10,6 @@
 [submodule "airHockey"]
 	path = airHockey
 	url = https://github.com/ajrobbins04/airHockey.git
+[submodule "password_manager"]
+	path = password_manager
+	url = https://github.com/ajrobbins04/password_manager.git
